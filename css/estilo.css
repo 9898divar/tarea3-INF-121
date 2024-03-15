@@ -15,7 +15,7 @@
     height: 150px;*/
     border-style: solid;
     border-color: chartreuse;
-    font-size: 30px;
+    font-size: 20px;
     /*display: inline-block;*/
 }
 .hijo1
@@ -23,7 +23,7 @@
     background-color: rgb(152, 204, 62);
     border-style: solid;
     border-color: chartreuse;
-    font-size: 30px;
+    font-size: 20px;
     /*display: inline-block;*/
     grid-column: 1/5;
 }
@@ -32,7 +32,7 @@
     background-color: rgb(62, 204, 105);
     border-style: solid;
     border-color: chartreuse;
-    font-size: 30px;
+    font-size: 20px;
     /*display: inline-block;*/
     grid-column: 1/3;
 }
@@ -41,7 +41,7 @@
     background-color: rgb(152, 204, 62);
     border-style: solid;
     border-color: chartreuse;
-    font-size: 30px;
+    font-size: 20px;
     /*display: inline-block;*/
     grid-column: 1/2;
 }
@@ -50,7 +50,7 @@
     background-color: rgb(152, 204, 62);
     border-style: solid;
     border-color: chartreuse;
-    font-size: 30px;
+    font-size: 20px;
     /*display: inline-block;*/
     grid-column: 1/2;
 }
@@ -59,7 +59,7 @@
     background-color: rgb(152, 204, 62);
     border-style: solid;
     border-color: chartreuse;
-    font-size: 30px;
+    font-size: 20px;
     /*display: inline-block;*/
     grid-column: 2/5;
 }
@@ -68,7 +68,7 @@
     background-color: rgb(152, 204, 62);
     border-style: solid;
     border-color: chartreuse;
-    font-size: 30px;
+    font-size: 20px;
     /*display: inline-block;*/
     grid-column: 1/3;
 }
@@ -76,7 +76,7 @@
 {
     background-color: rgb(205, 211, 43); 
  
-    font-size: 30px;
+    font-size: 20px;
     /*display: inline-block;*/
 
 }
@@ -86,7 +86,7 @@
     border-color: chartreuse;
     background-color: chocolate;
     display: grid;
-    font-size: 30px;
+    font-size: 20px;
     grid-template-rows: 50% 50%;
     grid-column: 3/5;
 }
